@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hola, soy Aldo
 
-<!--
-**Aldo-Tablas/Aldo-Tablas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy QA Engineer junior con formación en testing manual y automatizado.
+Vengo de un background en ingeniería de mantenimiento industrial, lo que me dio
+fuertes habilidades de análisis, detección de fallas y control de calidad.
 
-Here are some ideas to get you started:
+### 🧪 Skills
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- API Testing (Postman)
+- Automation Testing (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Herramientas
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
