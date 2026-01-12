@@ -1,8 +1,11 @@
 ## 👋 Hola, soy Aldo
 
-Soy QA Engineer junior con formación en testing manual y automatizado.
-Vengo de un background en ingeniería de mantenimiento industrial, lo que me dio
-fuertes habilidades de análisis, detección de fallas y control de calidad.
+Soy QA Engineer junior con formación en testing manual y automatizado, enfocado en asegurar la calidad del software y la correcta funcionalidad de los productos.
+Vengo de un background en ingeniería de mantenimiento industrial, lo que me permitió desarrollar sólidas habilidades de análisis, detección de fallas, atención al detalle y control de calidad.
+
+Cuento con experiencia en el diseño y ejecución de casos de prueba, reporte y seguimiento de bugs, testing de APIs y automatización básica de pruebas utilizando Selenium, además de trabajar con SQL y Python para validación de datos. He utilizado herramientas como Jira, Postman y GitHub en proyectos académicos.
+
+Me caracterizo por ser una persona metódica, analítica y orientada a la mejora continua, con gran interés en seguir creciendo profesionalmente en el área de Quality Assurance y aportar valor a equipos de desarrollo.
 
 ### 🧪 Skills
 - Manual Testing
